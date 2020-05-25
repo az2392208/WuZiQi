@@ -66,6 +66,11 @@
     <Compile Include="Assets\Scripts\ChestBoard.cs" />
     <Compile Include="Assets\Scripts\Conputer\AILevelOne.cs" />
     <Compile Include="Assets\Scripts\Conputer\AIParent.cs" />
+    <Compile Include="Assets\Scripts\Conputer\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\NetWorkSystem\ClientSystem.cs" />
+    <Compile Include="Assets\Scripts\NetWorkSystem\ListenerSocket.cs" />
+    <Compile Include="Assets\Scripts\NetWorkSystem\NetManager.cs" />
+    <Compile Include="Assets\Scripts\NetWorkSystem\ServerSystem.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>G:/UnityWork/WuZiQi/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
